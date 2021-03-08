@@ -1,0 +1,2 @@
+1m/* filter=lfs diff=lfs merge=lfs -text
+10k_fast/* filter=lfs diff=lfs merge=lfs -text
